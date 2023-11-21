@@ -1,0 +1,19 @@
+navbar {
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+        padding: 12px 36px;
+        background-color: black;
+        color: white;
+        font-size: 24px;
+        button{
+            padding: 5px 10px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            background: linear-gradient(129deg, rgba(9,9,121,1) 0%, rgba(77,0,255,1) 35%, rgba(250,0,255,1) 100%);
+            color: white;
+        }
+    }
+}
